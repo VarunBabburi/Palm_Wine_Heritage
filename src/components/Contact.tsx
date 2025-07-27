@@ -30,8 +30,7 @@ const Contact = () => {
   ];
 
   const deliveryAreas = [
-    "Malur", "Whitefield", "Hoskote", "Devanahalli",
-    "Bagalur", "Kolar Road", "Chintamani Road", "Bangarpet"
+    "Warangal", "Karimnagar", "hyd", "khamam"
   ];
 
   return (
