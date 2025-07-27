@@ -39,7 +39,7 @@ const About = () => {
           {/* Image */}
           <div className="relative">
             <img
-              src="Shttps://i.postimg.cc/PJDRNJ9t/download.jpg"
+              src="https://i.postimg.cc/PJDRNJ9t/download.jpghttps://i.postimg.cc/PJDRNJ9t/download.jpg"
               alt="Traditional toddy tapping"
               className="rounded-2xl shadow-2xl w-full h-96 object-cover"
             />
